@@ -1,6 +1,7 @@
 {
   "name": "vu3",
   "version": "0.0.1",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "description": "",
   "main": "index.js",
   "scripts": {
